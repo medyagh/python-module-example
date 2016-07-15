@@ -1,4 +1,6 @@
-import p1.x
+# THIS DOESN NOT WORK  NEED TO FIND SOLUTION
+
+from ..p1 import x
 
 def hello():
     print ("hello")
